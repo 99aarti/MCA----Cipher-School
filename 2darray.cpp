@@ -13,7 +13,7 @@ int main() {
         {7, 8, 9}
     };
 
-    int maxSum = 0; // Initialize to a very small value
+    int maxSum = 0; 
 
     for (int i = 0; i < numRows; ++i) {
         int currentRowSum = 0;
